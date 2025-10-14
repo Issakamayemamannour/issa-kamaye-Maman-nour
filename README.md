@@ -21,7 +21,7 @@
 ## 🧩 Formations et Stages
 
 - **2025** : Formation en *Marketing Digital et Développement Web* – Niamey  
-- **2023** : Formations en ligne sur **Atingi** :
+- **2023** : Formations en ligne sur *Atingi* :
   - Processus de création d’entreprises  
   - Pratiques agricoles néfastes à l’environnement  
   - Techniques de fabrication de compost rapide  
