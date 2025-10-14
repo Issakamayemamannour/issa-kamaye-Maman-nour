@@ -1,4 +1,4 @@
-#  Bonjour, je suis **Issa Kamaye Maman Nour**
+#Bonjour, je suis **Issa Kamaye Maman Nour**
 
  **Master en Sciences de l’Environnement (MISE)** — Université Abdou Moumouni de Niamey  
   Passionné par l’environnement, les SIG, le développement durable et le numérique.  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎓 Parcours Académique
+##Parcours Académique
 
 - **2024–2025** : Attestation de Master en MISE – Université Abdou Moumouni (FAST)
 - **2022–2023** : Master II en MISE – UAM/FAST  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Formations et Stages
+##Formations et Stages
 
 - **2025** : Formation en *Marketing Digital et Développement Web* – Niamey  
 - **2023** : Formations en ligne sur *Atingi* :
