@@ -1,8 +1,8 @@
-# 👋 Bonjour, je suis **Issa Kamaye Maman Nour**
+#  Bonjour, je suis **Issa Kamaye Maman Nour**
 
-🎓 **Master en Sciences de l’Environnement (MISE)** — Université Abdou Moumouni de Niamey  
-🌍 Passionné par l’environnement, les SIG, le développement durable et le numérique.  
-💡 Mon objectif : contribuer à la gestion durable des ressources naturelles grâce aux outils géospatiaux, à l’analyse de données et aux technologies numériques.
+ **Master en Sciences de l’Environnement (MISE)** — Université Abdou Moumouni de Niamey  
+  Passionné par l’environnement, les SIG, le développement durable et le numérique.  
+  Mon objectif : contribuer à la gestion durable des ressources naturelles grâce aux outils géospatiaux, à l’analyse de données et aux technologies numériques.
 
 ---
 
