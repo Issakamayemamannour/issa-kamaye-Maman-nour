@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis **Issa Kamaye Maman Nour**
+#  Bonjour, je suis **Issa Kamaye Maman Nour**
 
-🎓 **Master en Sciences de l’Environnement (MISE)** — Université Abdou Moumouni de Niamey  
-🌍 Passionné par l’environnement, les SIG, le développement durable et le numérique.  
-💡 Mon objectif : contribuer à la gestion durable des ressources naturelles grâce aux outils géospatiaux, à l’analyse de données et aux technologies numériques.
+ **Master en Sciences de l’Environnement (MISE)** — Université Abdou Moumouni de Niamey  
+ Passionné par l’environnement, les SIG, le développement durable et le numérique.  
+ Mon objectif : contribuer à la gestion durable des ressources naturelles grâce aux outils géospatiaux, à l’analyse de données et aux technologies numériques.
 
 ---
 
-## 🧠 Parcours Académique
+##  Parcours Académique
 
 - **2024–2025** : Attestation de Master en MISE (Master Intégré en Sciences de l’Environnement) – Université Abdou Moumouni (FAST)
 - **2022–2023** : Master II en MISE – UAM/FAST  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Formations et Stages
+##  Formations et Stages
 
 - **2025** : Formation en *Marketing Digital et Développement Web* – Niamey  
 - **2023** : Formations en ligne sur **atingi** :
@@ -33,22 +33,23 @@
 
 ---
 
-## 💻 Compétences Techniques
+##  Compétences Techniques
 
-### 🌿 Environnement & SIG
+###  Environnement & SIG
 - ArcGIS 10.x, ArcMap, QGIS  
 - Système d’Information Géographique (SIG)  
 - Analyse spatiale et traitement de données environnementales  
 
-### 📊 Analyse de Données
+###  Analyse de Données
 - Microsoft Excel, SPSS, R, Access  
 - Zotero (gestion bibliographique)  
 
-### 💻 Outils Numériques
+###  Outils Numériques
 - Word, PowerPoint, Canva, Photoshop  
 - Outils d’intelligence artificielle  
 - Développement Web (HTML, CSS, JavaScript)  
-- Marketing Digital  
+- Marketing Digital
+- photoshop  
 
 ---
 
@@ -64,11 +65,11 @@
 
 ---
 
-## 🎯 Centres d’Intérêt
-- Lecture 📚  
-- Sport ⚽  
-- Internet 🌐  
-- Voyages ✈️  
+##  Centres d’Intérêt
+- Lecture  
+- Sport 
+- Internet  
+- Voyages  
 
 ---
 
@@ -82,7 +83,7 @@
 
 ---
 
-### ✍️ Certification
+###  Certification
 > *J’atteste sur l’authenticité des informations contenues dans ce document.*
 
 ---
@@ -96,10 +97,10 @@ Ce profil me permet de :
 ---
 
 ### 💬 N’hésite pas à me contacter :
-📧 **issakamaye@gmail.com** *(ou ton adresse mail professionnelle si tu veux la mettre)*  
+📧 **ikm.m.nour@gmail.com** *(ou ton adresse mail professionnelle si tu veux la mettre)*  
 🌍 [LinkedIn](https://www.linkedin.com) *(ajoute ton lien si tu en as un)*  
 
 ---
 
-⭐ *Merci d’avoir visité mon profil GitHub !*  
-*“L’environnement n’est pas un héritage de nos parents, mais un prêt de nos enfants.”* 🌱
+*Merci d’avoir visité mon profil  !*  
+*“L’environnement n’est pas un héritage de nos parents, mais un prêt de nos enfants.”* 
