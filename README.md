@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 Connaissances Linguistiques
+##  Connaissances Linguistiques
 
 | Langue  | Lire | Écrire | Parler |
 |----------|------|--------|--------|
@@ -88,7 +88,7 @@
 
 ---
 
-## 🚀 Objectif GitHub
+##  Objectif GitHub
 Ce profil me permet de :
 - Présenter mes projets académiques et professionnels en environnement et développement durable  
 - Publier des analyses SIG, statistiques et web  
@@ -96,7 +96,7 @@ Ce profil me permet de :
 
 ---
 
-### 💬 N’hésite pas à me contacter :
+### 💬 N’hésite pas à me contacter : 89037519/94415199
 📧 **ikm.m.nour@gmail.com** *(ou ton adresse mail professionnelle si tu veux la mettre)*  
 🌍 [LinkedIn](https://www.linkedin.com) *(ajoute ton lien si tu en as un)*  
 
