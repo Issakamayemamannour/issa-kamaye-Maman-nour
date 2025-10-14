@@ -1,6 +1,7 @@
 # Issa Kamaye Maman Nour
 
 ## À propos de moi
+
 Bonjour, je suis **Issa Kamaye Maman Nour**, titulaire d’un **Master en Sciences de l’Environnement (MISE)** obtenu à l’Université Abdou Moumouni de Niamey.  
 Je suis passionné par l’environnement, les Systèmes d’Information Géographique (SIG), le développement durable et le numérique.  
 Mon objectif est de contribuer à la gestion durable des ressources naturelles grâce aux outils géospatiaux, à l’analyse de données et aux technologies numériques.
@@ -19,9 +20,10 @@ Mon objectif est de contribuer à la gestion durable des ressources naturelles g
 ---
 
 ## Formations et Stages
+
 - 2025 : Formation en Marketing Digital et Développement Web – Niamey  
 - 2023 : Formations en ligne sur la plateforme **Atingi**  :
-- 
+  
   - Processus de création d’entreprises  
   - Pratiques agricoles néfastes à l’environnement  
   - Techniques de fabrication de compost rapide  
