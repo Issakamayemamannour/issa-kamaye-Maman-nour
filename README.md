@@ -37,19 +37,17 @@ Mon objectif est de contribuer à la gestion durable des ressources naturelles g
 ---
 
 ## Compétences techniques
-
-## Environnement et SIG
+### Environnement et SIG
 
 - ArcGIS 10.x, ArcMap, QGIS  
 - Systèmes d’information géographique (SIG)  
 - Analyse spatiale et traitement de données environnementales
-
-## Analyse de données
+### Analyse de données
 
 - Microsoft Excel, SPSS, R, Access  
 - Zotero (gestion bibliographique)
 
-## Outils numériques
+### Outils numériques
 
 - Microsoft Word, PowerPoint  
 - Canva, Photoshop  
