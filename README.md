@@ -24,7 +24,6 @@ Mon objectif est de contribuer à la gestion durable des ressources naturelles g
 
 - 2025 : Formation en marketing digital et développement web — Niamey  
 - 2023 : Formations en ligne sur la plateforme **Atingi** :
-
   - Processus de création d’entreprises  
   - Pratiques agricoles nuisibles à l’environnement  
   - Techniques de fabrication de compost rapide  
@@ -37,18 +36,17 @@ Mon objectif est de contribuer à la gestion durable des ressources naturelles g
 ---
 
 ## Compétences techniques
-### Environnement et SIG
 
+### Environnement et SIG
 - ArcGIS 10.x, ArcMap, QGIS  
 - Systèmes d’information géographique (SIG)  
 - Analyse spatiale et traitement de données environnementales
-### Analyse de données
 
+### Analyse de données
 - Microsoft Excel, SPSS, R, Access  
 - Zotero (gestion bibliographique)
 
 ### Outils numériques
-
 - Microsoft Word, PowerPoint  
 - Canva, Photoshop  
 - Outils d’intelligence artificielle  
