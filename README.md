@@ -94,14 +94,6 @@ J’atteste de l’authenticité des informations contenues dans ce document.
 
 ---
 
-## Objectifs GitHub
-
-Ce profil a pour but de :  
-- Présenter mes projets académiques et professionnels en environnement et développement durable  
-- Publier des analyses SIG, des travaux statistiques et des réalisations web  
-- Collaborer sur des projets open source et des initiatives environnementales
-
----
 
 ## Contact
 
